@@ -278,6 +278,7 @@ See also [Security Orchestration, Automation, and Response (SOAR)](#security-orc
 - [Gatekeeper](https://github.com/AltraMayor/gatekeeper) - First open source Distributed Denial of Service (DDoS) protection system.
 - [fwknop](https://www.cipherdyne.org/fwknop/) - Protects ports via Single Packet Authorization in your firewall.
 - [ssh-audit](https://github.com/jtesta/ssh-audit) - Simple tool that makes quick recommendations for improving an SSH server's security posture.
+- [SafeLine WAF](https://github.com/chaitin/SafeLine) - SafeLine is a web security gateway, make your web app secure default, serve as a reverse proxy to protect your websites from attacks and exploits.
 
 ### Firewall appliances or distributions
 
