@@ -322,6 +322,7 @@ See also [awesome-pentest § Social Engineering Tools](https://github.com/fabaca
 - [RedHunt OS](https://github.com/redhuntlabs/RedHunt-OS) - Ubuntu-based Open Virtual Appliance (`.ova`) preconfigured with several threat emulation tools as well as a defender's toolkit.
 - [Stratus Red Team](https://stratus-red-team.cloud/) - Emulate offensive attack techniques in a granular and self-contained manner against a cloud environment; think "Atomic Red Team™ for the cloud."
 - [tcpreplay](https://tcpreplay.appneta.com/) - Suite of free Open Source utilities for editing and replaying previously captured network traffic originally designed to replay malicious traffic patterns to Intrusion Detection/Prevention Systems.
+- [CyberPython](https://pythoncyber.go.ro/) - Self learning platform where users should make their own research with little guidance and practicing by solving challenges which consists in web interaction and exploitation of CVEs.
 
 ### Post-engagement analysis and reporting
 
